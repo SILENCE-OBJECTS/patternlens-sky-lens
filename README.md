@@ -26,3 +26,7 @@ No birth data. No horoscope SKU. No prophecy.
 PUBLIC PREVIEW — PRODUCT IN DEVELOPMENT
 
 Kanon: do not describe this as a live enterprise dashboard or astrology app.
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
